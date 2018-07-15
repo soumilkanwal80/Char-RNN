@@ -17,10 +17,11 @@ python3 train.py --mode train
 
 ### Tweet Generation
 python3 train.py --mode generate 
+
 Other commands 
---num_sentences -> to set number of sentences to generate
---string -> to set starting string
---num_chars -> to set number of characters present in tweet
+1. --num_sentences -> to set number of sentences to generate
+2. --string -> to set starting string
+3. --num_chars -> to set number of characters present in tweet
 
 ## Examples
 [I, Donald J. Trump, president of the United] States "@NickTiller211: @realDonaldTrump I wish a great time in office. I will be on @foxandfriends at 8:30pm on @FoxNews and the first choice. We need you!...
